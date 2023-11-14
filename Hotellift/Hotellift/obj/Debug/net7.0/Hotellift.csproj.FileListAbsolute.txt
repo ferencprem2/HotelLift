@@ -1,0 +1,15 @@
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/bin/Debug/net7.0/Hotellift
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/bin/Debug/net7.0/Hotellift.deps.json
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/bin/Debug/net7.0/Hotellift.runtimeconfig.json
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/bin/Debug/net7.0/Hotellift.dll
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/bin/Debug/net7.0/Hotellift.pdb
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/Hotellift.csproj.AssemblyReference.cache
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/Hotellift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/Hotellift.AssemblyInfoInputs.cache
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/Hotellift.AssemblyInfo.cs
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/Hotellift.csproj.CoreCompileInputs.cache
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/Hotellift.dll
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/refint/Hotellift.dll
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/Hotellift.pdb
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/Hotellift.genruntimeconfig.cache
+/Users/premferenc/Desktop/Hotellift/Hotellift/Hotellift/obj/Debug/net7.0/ref/Hotellift.dll

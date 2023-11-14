@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9F12A466-514E-4ECF-80C8-D5F12D765432}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hotellift PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotellift/Program.cs">
+    <Files>
+      <File FileName="Hotellift/Program.cs" Line="58" Column="1" />
+      <File FileName="Hotellift/Lift.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hotellift" expanded="True">
+            <Node name="Hotellift" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
